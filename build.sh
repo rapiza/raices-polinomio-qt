@@ -12,8 +12,8 @@ git clone https://github.com/rapiza/raices-polinomio-qt.git py-test
 
 cd ./py-test
 
-pyenv vitualenv 3.7.0 envGUI
+pyenv virtualenv 3.7.0 venv
 pip install --upgrade pip
 pip install -r requeriments.txt
 
-python ./Dns_GUI3.py
+python3 ./Dns_GUI3.py

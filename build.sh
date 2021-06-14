@@ -15,8 +15,6 @@ git clone https://github.com/rapiza/raices-polinomio-qt.git py-test
 
 cd ~/py-test
 
-pyenv uninstall venv
-
 pyenv virtualenv 3.7.0 venv
 pyenv activate venv
 

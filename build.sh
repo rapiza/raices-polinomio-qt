@@ -11,7 +11,7 @@ cd $HOME
 
 git clone https://github.com/rapiza/raices-polinomio-qt.git py-test
 
-cd ~py-test
+cd ~/py-test
 
 pyenv virtualenv 3.7.0 venv
 pip install --upgrade pip

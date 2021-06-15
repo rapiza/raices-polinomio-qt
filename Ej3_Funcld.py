@@ -1,5 +1,4 @@
-#!/home/robert/.pyenv/versions/3.7.0/envs/envNA/bin/python3.7
-# -*- coding: utf-8 -*-
+
 import sys
 from Dns_GUI3 import *
 import numpy as np
